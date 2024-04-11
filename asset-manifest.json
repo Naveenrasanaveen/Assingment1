@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Naveenrasanaveen/Assingment1.git/static/css/main.fe6778a5.css",
+    "main.js": "/Naveenrasanaveen/Assingment1.git/static/js/main.c9f60e97.js",
+    "static/media/png": "/Naveenrasanaveen/Assingment1.git/static/media/6a1a3489e0ba38aabde99ead2c795714.7174637bb8ad031f019f.png",
+    "static/media/jpg": "/Naveenrasanaveen/Assingment1.git/static/media/68cf127f505e43e548e19296947c8d09.16c588bc3c0596e55550.jpg",
+    "index.html": "/Naveenrasanaveen/Assingment1.git/index.html",
+    "main.fe6778a5.css.map": "/Naveenrasanaveen/Assingment1.git/static/css/main.fe6778a5.css.map",
+    "main.c9f60e97.js.map": "/Naveenrasanaveen/Assingment1.git/static/js/main.c9f60e97.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe6778a5.css",
+    "static/js/main.c9f60e97.js"
+  ]
+}
